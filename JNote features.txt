@@ -1,0 +1,21 @@
+
+  Help Index:
+
+1.Press Ctrl+N for New File
+2.Press Ctrl+O to Open File
+3.Press Ctrl+S to Save File
+4.Press Ctrl+P to Print File
+5.Press Ctrl+Space for Panel Suggestion
+6.Press Ctrl+z for Undo; Ctrl+Y for Redo
+7.Press F5 for Time/date
+8.Press Ctrl+G for Go to line
+9.Press Ctrl+X for Cut,Press Ctrl+C for Copy, Ctrl+V for Paste
+10.Press Ctrl+A for Select All
+11.Press Ctrl+F for Find/Replace
+12.Press F3 for Find Next
+13.Press F4 for Replace Next
+14.Double click for Pop Up Menu
+
+
+
+
